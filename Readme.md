@@ -1,3 +1,3 @@
 # Curso ciencia de redes 
 
-Septiembre de 2021
+Septiembre de 2021. 
