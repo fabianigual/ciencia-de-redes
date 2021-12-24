@@ -1,1 +1,6 @@
 .ipynb_checkpoints
+
+redes-trabajo-final/Data
+*.txt
+
+.DS_Store
